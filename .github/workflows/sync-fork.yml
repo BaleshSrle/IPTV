@@ -22,4 +22,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Syncs the 'main' branch of this repository with the parent repository
-          gh repo sync IPTV --branch master
+          gh repo sync BaleshSrle/IPTV --branch master
