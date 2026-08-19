@@ -10,10 +10,10 @@
 | 3   | MRT3 Ⓖ | [>](https://vod-c57.interspace.com:443/channel_abr/658323455489957/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzU6NTkgUE0maGFzaF92YWx1ZT1Xb0JsUWRMN1JKLytjbnMyQjVuMUFRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NDRmM2M5MDI=) | <img height="20" src="https://i.imgur.com/3VZrG4T.png"/> | MRT3.mk |
 | 4   | MRT4 Ⓖ | [>](https://vod-c57.interspace.com:443/channel_abr/712108910819540/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDA6MzEgUE0maGFzaF92YWx1ZT13WmtQTWM2U0ZUUTF0VGc5TzlIRVZRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NTVmYzlkZDc=) | <img height="20" src="https://i.imgur.com/wSmxUqY.png"/> | MRT4.mk |
 | 4   | MRT5 Ⓖ | [>](https://vod-c57.interspace.com:443/channel_abr/553171400681132/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDM6NDI6NDMgUE0maGFzaF92YWx1ZT0wZXRxNHh1UnMyVStVZnU3K0RNZUh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY4M2YzYzIyYmI=) | <img height="20" src="https://i.imgur.com/zcvKu1h.png"/> | MRT5.mk |
-| 5   | Kanal 5 Ⓢ Ⓖ | [>](https://s2.teve.mk/tvstanici/2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Qw7N3S2.png"/> | Kanal5.mk |
+| 5   | Kanal 5 Ⓢ Ⓖ | [>](https://teve.mk/tvstanici/2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Qw7N3S2.png"/> | Kanal5.mk |
 | 28  | Alfa TV Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8) | <img height="20" src="https://i.imgur.com/5BSyXfr.png"/> | AlfaTV.mk |
 | 100 | Alsat M Ⓢ Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/640px-Logo_of_Alsat_TV_%282020-%29.svg.png"/> | Alsat.mk |
-| 101 | Sitel Ⓢ Ⓖ | [>](http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/pdobwKt.png"/> | Sitel.mk |
+| 101 | Sitel Ⓢ Ⓖ | [>](https://teve.mk/tvstanici/s1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/pdobwKt.png"/> | Sitel.mk |
 | 102 | Telma Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_of_Telma_%282016-%29.svg/497px-Logo_of_Telma_%282016-%29.svg.png"/> | TelmaTV.mk |
 
 <h2>DVB-S</h2>
@@ -30,7 +30,7 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1 | Телевизија Здравкин | [>](http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kSmcAER.png"/> | Zdravkin |
 | 2 | ТВ Сонце | [x](https://media2.streambrothers.com:1936/8142/8142/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LblSsIv.png"/> | tv-sonce.com |
-| 3 | Орбис | [x](http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Orbis-logo.png"/> | TV Orbis |
+| 3 | Орбис | [>](http://tvorbis.hugo.mk:1935/live/orbis/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Orbis-logo.png"/> | TV Orbis |
 | 4 | M»Net | [>](http://ares.mnet.mk/hls/mnet.m3u8) | <img height="20" src="https://i.imgur.com/JWHcGMX.png"/> | mnet.mk |
 | 5 | Македонско Сонце | [x](https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8) | <img height="20" src="https://i.imgur.com/b97qVaV.png"/> | makedonsko-sonce |
 | 6 | Канал 8 | [x](http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8) | <img height="20" src="https://i.imgur.com/5skC7be.png"/> | kanal8.mk |
