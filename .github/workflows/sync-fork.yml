@@ -19,7 +19,7 @@ jobs:
 
       - name: Sync with upstream
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{GitHubSecretToken}}
         run: |
           # Syncs the 'main' branch of this repository with the parent repository
           gh repo sync BaleshSrle/IPTV --branch master
